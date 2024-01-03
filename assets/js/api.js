@@ -1,6 +1,6 @@
 'use strict';
-const api_key = "ef871557197701e9889bc076cb30e519";
-
+let tokeen = prompt("Enter you token", "ef871557197701e9889bc076cb30e519");
+const api_key = tokeen;
 export const fetchdata = function (URL, callback) {
     fetch(`${URL}&appid=${api_key}`)
         .then((res) => res.json())
