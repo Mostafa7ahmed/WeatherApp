@@ -364,7 +364,6 @@ export const updataWeather = function (lat, lon) {
                         </span>
                 </div>
 
-                    <p class="label-1">${getDate()}</p>
                     <p class="label-1">${weekDayNames[date.getUTCDay()]}</p>
                     `;
                 forecastSection.querySelector("[data-forcast]").appendChild(ULi);
