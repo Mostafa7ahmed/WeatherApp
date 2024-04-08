@@ -19,6 +19,6 @@
 
 ## Screenshots
 
-<img  height="500" src="https://c.top4top.io/p_3020jdcp21.png"  />
+<img  height="100%"    width: 100%; src="https://c.top4top.io/p_3020jdcp21.png"  />
 
 
