@@ -19,6 +19,6 @@
 
 ## Screenshots
 
-[![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+[(https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ](https://c.top4top.io/p_3020jdcp21.png)
 
